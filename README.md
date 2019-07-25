@@ -1,3 +1,4 @@
+********* snippet of AD5933 Arduino Library ***********
 AD5933 Arduino Library for Temperature Reading:
 This is a simple library for using the AD5933 impedance convert system with an Arduino compatible device.
 
